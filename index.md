@@ -1,6 +1,6 @@
 ## Welcome to CTGP-Café
 
-An unofficial mod for the WiiU version (and maybe for the NX in the future) that add tracks, ~~various mods~~ and patches. It's currently being developed by Rambo6Glaz.
+An unofficial mod for the WiiU version of MARIO KART 8 (and maybe for the NX in the future), the mod adds tracks, ~~mods~~ and patches. It's currently being developed by Rambo6Glaz.
 
 This website will hold various data such as news, tutorials and links. You can contact me on [Twitter](https://www.twitter.com/NexoLePaveDroit), or on Discord @ Rambo6Glaz#3952
 
