@@ -17,7 +17,7 @@ This website will hold various data such as news, tutorials and links. You can c
 
 ### Installation instructions
 
-- Downlaod the latest file [**here**](#)
+- Download the latest package [**here**](#)
 - Put the data files inside the ``sd:/ctgp8`` folder
 - Start the homebrew app or the channel (if somehow already installed)
 - Press **"Start CTGP"**
