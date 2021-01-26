@@ -10,19 +10,20 @@ This website will hold various data such as news, tutorials and links. You can c
 
 ### Installation instructions
 
-- Download the latest package [**here**](#)
+- Download the latest package [**here**](https://ctgp-cafe.rambo6dev.net/release.zip)
 - Put the data files inside the ``sd:/ctgp8`` folder
 - Start the WiiU Homebrew Channel
 - Start the CTGP-8 homebrew application
 - Press **"Start CTGP"**
 
 ### Credits
-(to-be-filled before release)
+
+- **Rambo6Glaz** for developing CTGP-Café
+- **[Kinnay](https://github.com/kinnay)** for various help and data structures
+- The **[CTGP-Universe](https://discord.gg/8H9fF2q)** team for putting the tracks together in their modpack, and the menu design
 
 ### Support or Contact
 
 Are you having trouble with CTGP-Café ? Contact us on [Discord](https://discord.gg/zc4UewJjwR)
-
-I refuse to answer to anyone that won't describe the issue, example: ``help it crashes :(``. 
 
 Try your best at explaining **when**/**how** the issue occurs.
