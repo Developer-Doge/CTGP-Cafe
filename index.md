@@ -8,10 +8,15 @@ This website will hold various data such as news, tutorials and links. You can c
 
 **CTGP-Café** should be available soon.
 
+### Installation prerequisite
+
+- A WiiU on firmware 5.5.x
+- A SDCard formatted in FAT32 witht the HBL files setup correctly
+
 ### Installation instructions
 
 - Download the latest package [**here**](https://ctgp-cafe.rambo6dev.net/release.zip)
-- Put the data files inside the ``sd:/ctgp8`` folder
+- Put the data files inside your SD Card
 - Start the WiiU Homebrew Channel
 - Start the CTGP-8 homebrew application
 - Press **"Start CTGP"**
