@@ -4,9 +4,9 @@ An unofficial mod for the WiiU version of MARIO KART 8 (and maybe for the NX in 
 
 This website will hold various data such as news, tutorials and links. You can contact me on [Twitter](https://www.twitter.com/NexoLePaveDroit), or us on [Discord](https://discord.gg/zc4UewJjwR)
 
-### Latest news (26 / 01 / 2021)
+### Latest news (28 / 01 / 2021)
 
-**CTGP-Café** should be available soon.
+**CTGP-Café** is now available.
 
 ### Installation prerequisite
 
