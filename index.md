@@ -4,14 +4,19 @@ An unofficial mod for the WiiU version of MARIO KART 8 (and maybe for the NX in 
 
 This website will hold various data such as news, tutorials and links. You can contact me on [Twitter](https://www.twitter.com/NexoLePaveDroit), or us on [Discord](https://discord.gg/zc4UewJjwR)
 
-### Latest news (28 / 01 / 2021)
+### Latest news (2 / 17 / 2021)
 
 **CTGP-Café** is now available.
+
+### Media
+
+- https://www.youtube.com/watch?v=e1NTl4TdZL8
 
 ### Installation prerequisite
 
 - A WiiU on firmware 5.5.x
 - A SDCard formatted in FAT32 witht the HBL files setup correctly
+- (Optional, only used in channel installation) WUP Installer GX2
 
 ### Installation instructions
 
@@ -21,11 +26,20 @@ This website will hold various data such as news, tutorials and links. You can c
 - Start the CTGP-8 homebrew application
 - Press **"Start CTGP"**
 
+# (Optional) Channel Installation instructions
+- Download the channel version [**here**](https://cdn.discordapp.com/attachments/803549213333258331/809950385749229578/ctgp8_channel.zip)
+- Copy the contents of the zip file into a folder named "install" on the root of the sd card, if there is not install folder create one!
+- Open WUP Installer GX2 from the homebrew channel
+- Tap "ctgp8_channel" and then click install
+- After it  has installed reboot the console
+- Finally start ctgp cafe by clicking the home menu icon (must have cfw loaded to use it)
+
 ### Credits
 
 - **Rambo6Glaz** for developing CTGP-Café
 - **[Kinnay](https://github.com/kinnay)** for various help and data structures
 - The **[CTGP-Universe](https://discord.gg/8H9fF2q)** team for putting the tracks together in their modpack, and the menu design
+- **[RobloxTitan4223](https://github.com/BOsborneOfficial)** updating the website and giving good feature and map suggestions
 
 ### Support or Contact
 
