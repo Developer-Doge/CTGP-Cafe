@@ -10,7 +10,7 @@ This website will hold various data such as news, tutorials and links. You can c
 
 ### Media
 
-- https://www.youtube.com/watch?v=e1NTl4TdZL8
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/e1NTl4TdZL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Installation prerequisite
 
@@ -26,7 +26,7 @@ This website will hold various data such as news, tutorials and links. You can c
 - Start the CTGP-8 homebrew application
 - Press **"Start CTGP"**
 
-# (Optional) Channel Installation instructions
+#### (Optional) Channel Installation instructions
 - Download the channel version [**here**](https://cdn.discordapp.com/attachments/803549213333258331/809950385749229578/ctgp8_channel.zip)
 - Copy the contents of the zip file into a folder named "install" on the root of the sd card, if there is not install folder create one!
 - Open WUP Installer GX2 from the homebrew channel
