@@ -10,8 +10,8 @@ This website will hold various data such as news, tutorials and links. You can c
 
 ### Media
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/e1NTl4TdZL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media;" allowfullscreen></iframe>
-<iframe src="https://drive.google.com/file/d/1adla7NL8PG5k3jRv3YF6GDl_6FKNKKny/preview" width="640" height="480" allow="accelerometer; autoplay; encrypted-media;" allowfullscreen></iframe>
+<iframe width="500" height="281" src="https://www.youtube.com/embed/e1NTl4TdZL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media;" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1adla7NL8PG5k3jRv3YF6GDl_6FKNKKny/preview" width="500" height="281" allow="accelerometer; autoplay; encrypted-media;" allowfullscreen></iframe>
 
 
 ### Installation prerequisite
