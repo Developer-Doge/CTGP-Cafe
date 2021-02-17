@@ -10,7 +10,7 @@ This website will hold various data such as news, tutorials and links. You can c
 
 ### Media
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/e1NTl4TdZL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="281" src="https://www.youtube.com/embed/e1NTl4TdZL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media;" allowfullscreen></iframe>
 
 ### Installation prerequisite
 
